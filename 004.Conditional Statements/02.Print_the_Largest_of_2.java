@@ -8,6 +8,5 @@ public class JavaBasics{
         else{
             System.err.println("B is largest of 2");
         }
-        
     }
 }
