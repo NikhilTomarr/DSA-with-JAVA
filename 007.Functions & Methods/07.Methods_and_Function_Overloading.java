@@ -1,6 +1,6 @@
 //#Methods:
 //     |
-//     |---User-defined Methods--->Exanmple: factorial,sum,product,etc.
+//     |---User-defined Methods--->Exanmple: factorial,Sum,Product,etc.
 //     |
 //     |---Pre-defined Methods--->Example:Math(sqrt,pow,max) and sc.nextInt() etc.
 
@@ -20,10 +20,13 @@ int sum(int a, int b, int c){
 }
 
 //2.Using Data Types:
+
 //f1: add 2 int values :->
 int add(int a, int b){
     return a + b;
 }
 
 //f2: add 2 float values :->
-    
+float add(float a, float b){
+    return a + b;
+}
