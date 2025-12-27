@@ -1,6 +1,6 @@
 //#Methods:
 //     |
-//     |---User-defined Methods--->Exanmple: factorial,Sum,Product,etc.
+//     |---User-defined Methods--->Exanmple: factorial,sum,product,etc.
 //     |
 //     |---Pre-defined Methods--->Example:Math(sqrt,pow,max) and sc.nextInt() etc.
 
