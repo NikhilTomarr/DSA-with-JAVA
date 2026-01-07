@@ -17,7 +17,7 @@
 // compare mid & key
 // mid==key  -> found
 // mid>key  -> left search
-// mid<key  -> right search
+// mid<key -> right search
 
 public class JavaBasics{
 
