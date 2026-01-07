@@ -1,4 +1,4 @@
-// #Binary Search
+// #Binary Search  --- time complexity O(logn)
 
 // prerequisite: sorted array
 //                            key = 10
